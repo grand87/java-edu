@@ -1,0 +1,27 @@
+https://metanit.com/java/tutorial/2.9.php
+
+
+
+http://docs.oracle.com/javase/1.5.0/docs/tooldocs/windows/java.html
+
+https://docs.oracle.com/javase/7/docs/api/java/lang/System.html
+
+http://proglang.su/java/characters
+
+
+http://proglang.su/java/operators
+
+
+
+Обїектная композиция
+
+Система контрля версий: GIT
+https://githowto.com/ru
+https://habrahabr.ru/post/125799/
+http://eax.me/git-commands/
+
+
+Учебник
+https://metanit.com/java/tutorial/2.9.php
+
+http://www.javable.com/tutorials/fesunov/
