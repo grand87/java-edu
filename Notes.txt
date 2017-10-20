@@ -1,10 +1,15 @@
-https://metanit.com/java/tutorial/2.9.php
-
-
-
+Java Tools
 http://docs.oracle.com/javase/1.5.0/docs/tooldocs/windows/java.html
 
+Java API
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/language/foreach.html
+
+
 https://docs.oracle.com/javase/7/docs/api/java/lang/System.html
+https://docs.oracle.com/javase/7/docs/api/java/util/List.html
+https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html
+
 
 http://proglang.su/java/characters
 http://proglang.su/java/operators
@@ -19,5 +24,14 @@ http://eax.me/git-commands/
 
 Учебник
 https://metanit.com/java/tutorial/2.9.php
-
 http://www.javable.com/tutorials/fesunov/
+
+Циклы
+    for\for each
+        https://vertex-academy.com/tutorials/ru/cikl-for-each/
+        http://developer.alexanderklimov.ru/android/java/for.php
+
+Структуры данных:
+* ArrayList
+    http://developer.alexanderklimov.ru/android/java/arraylist.php
+    https://habrahabr.ru/post/128269/
